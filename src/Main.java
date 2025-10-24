@@ -19,6 +19,7 @@ public class Main {
 
             System.out.println("Bilangan " + bilangan + " adalah GANJIL.");
         }
+        //perunahan
 
 
         scanner.close();
